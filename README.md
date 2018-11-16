@@ -6,5 +6,4 @@
 - Luigi
 - Sheldon
 - 3456
-- Flora
 - Mufasa
