@@ -4,7 +4,7 @@
 - Hello
 - Decided to add this
 - Luigi
-- Sheldon
+- Sheldon Eneldon
 - 3456
-- Flora
+- Flora Gata
 - Mufasa
