@@ -3,3 +3,4 @@ function Greeting(name) {
 }
 
 Greeting('Luigi');
+console.log("meow");
