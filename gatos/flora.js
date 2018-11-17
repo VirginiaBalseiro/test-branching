@@ -1,3 +1,3 @@
 function flora() {
-	console.log("Meoowowowww")
+	console.log("Meow")
 }
